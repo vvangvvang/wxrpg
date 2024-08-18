@@ -18,7 +18,7 @@ class Game(object):
         self.screen = pygame.display.set_mode(SCREEN_RECT.size)
         self.clock = pygame.time.Clock()
         self.enemy_image = pygame.image.load("res/images/char_red_1.png")
-        self.enemy_image2 = self.enemy_image.subsurface((0,0,56*6,56))
+        self.enemy_image2 = self.enemy_image.subsurface((0,0,56*1,56))
         self.__create_sprite()
         pygame.time.set_timer(CREATE_ENEMY_EVENT, 750)
         pygame.time.set_timer(HERO_FIRE_EVENT,375)
@@ -48,8 +48,8 @@ class Game(object):
             self.__update_sprite()
             pygame.display.update()
             self.clock.tick(FPS)
-            #print(self.clock.get_time())
-            #print(self.clock.get_fps())
+            print(self.clock.get_time())
+            print(self.clock.get_fps())
 
     def __event_handler(self):
         for event in pygame.event.get():

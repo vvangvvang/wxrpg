@@ -21,6 +21,11 @@ class Scene(pygame.sprite.Sprite):
 				self.surface.blit(self.tilemap,(i*self.size,j*self.size))
 		self.rect = self.surface.get_rect()
 
+class TileMap(pygame.sprite.Sprite):
+	def __init__(self):
+		super().__init__()
+		
+
 #英雄
 class Hero(pygame.sprite.Sprite):
 	def __init__(self,FPS):
@@ -49,6 +54,7 @@ class Weapon(pygame.sprite.Sprite):
 	def __init__(self):
 		super().__init__()
 		#self.image = pygame.image.load()
+
 
 #怪物
 class Enemy(pygame.sprite.Sprite):

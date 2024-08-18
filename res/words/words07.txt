@@ -1,0 +1,67 @@
+301、nect，nex=bind 连接
+
+302、neg=deny 否认
+303、negr，nigr=black 黑
+304、neur=nerve 神经
+305、nihil=nothing 无，不存在
+
+306、noc，nox=hurt，poison 伤害，毒
+
+307、noct=night 夜晚
+
+308、nom，nomy=a field of knowledge 某一领域的知识
+
+309、nomin=name 名称，名字
+310、norm=rule，norm 规则，规范
+311、nost=home 家
+
+312、not=know 知道
+313、nounce，nunci=speak 讲话，说出
+
+314、nov=new 新的
+315、null=none 没有
+316、numer=number 数目
+
+317、nutrit，nutri=nourish 营养
+
+318、od=song 歌曲
+319、oner=load 负担
+320、onym=name 名字
+321、oper=work 工作
+322、opt=choose 选择
+323、opt，opto=sight 视力
+324、optim=best 最好
+325、ora，orat=mouth 嘴，说
+
+326、orbit=circle 圆圈
+327、ordin=order 命令，顺序
+
+328、ori，orig=rise，begin 升起，开始 
+
+329、orn=embellish 装饰
+330、oss=bone 骨头
+331、ot，oto=ear 耳朵
+332、pact=fastened 紧的
+333、palp=feel 感觉，摸
+334、par=bring forth 生产，生出孩子
+
+335、par=equal 平等
+
+336、par=get ready 准备
+337、par，pear=come in sight 看见
+338、parl=speak 说话
+339、part，port=part，divide 部分，分开
+340、pass=feeling 感情
+341、pass=pass through 通过
+342、path=feeling，suffering，illness 感情，痛苦，病
+
+343、patr，patri=father 父亲
+344、ped=child，education 儿童，教育
+345、ped=foot 脚
+346、pel，puls=drive，push 驱动，推
+347、pen，pun=penalty 惩罚
+348、pend，pens=hang 悬挂
+349、pend，pens，pond=weight，expend 称重量，称银子，花费
+
+350、peri=try 尝试
+

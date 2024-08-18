@@ -1,0 +1,68 @@
+51、calori=heat 热
+52、camp=field 田野
+
+53、cand=white，glow 白，发光
+54、cant，cent=sing，song 唱，歌
+55、cap，capt，cept，ceive，cip，cup=take，hold，seize 拿，抓，握住
+
+56、cap，cipit=head 头
+57、car，char=dear 可爱的
+58、card，chart=paper 纸片
+59、card，cord=heart 心脏，一致
+60、carn=flesh 肉，肉欲
+61、cast=pure 纯洁
+62、cav=hole 洞
+63、ced，ceed，cess=go 行走，前进
+64、celer=quick，speed 快，速
+65、cens=judge 判断
+66、cent=hundred 一百
+67、centr=center 中心
+68、cern，cert，cret=sure，separate 搞清，区别
+69、chor=dance，sing 歌，舞
+70、chrom=color 颜色
+71、chron=time 时间
+72、cid，cis=cut，kill 切开，杀
+73、cil,cili=call 召集
+74、circ，cycl=ring，circle 圆，环
+75、cit=quote，call 引用，唤起
+76、civ=citizen 公民 
+
+77、claim，clam=cry out，shout 呼喊，叫喊
+
+78、clear，clar，clair=clear，bright 清楚，明白
+
+79、clin，cliv=lean，slope 侵斜，斜坡
+
+80、clos，clud，clus=close 关闭
+
+81、coct=cook 煮，调配
+
+82、cogn=know 知道
+
+83、com=banquet 宴会
+
+84、commod=convenient 方便
+
+85、cond=hide 藏
+
+86、corn=horn 角
+87、corp，corpor=body 身体，团体
+
+88、cosm，cosmo=world 世界，宇宙
+89、cracy=rule 统治或政体
+90、crat=ruler 统治者
+91、cre，creas=grow，make 增长，产生
+
+92、creed，cred=believe，trust 相信，信任
+
+93、crit，cris=judge，discern 判断，分辨
+
+94、cruc，crus，crux=cross 十字形，交叉
+
+95、cryo=cold 冷，冻
+96、crypt=secret，hidden 秘密，隐藏
+
+97、cub，cumb=lie down 躺
+98、culp=fault 错，罪
+99、cult=till 耕种，培养
+100、cumber=barrier 躺的东西，障碍

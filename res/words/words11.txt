@@ -1,0 +1,72 @@
+518、tribut=give 给予
+519、trit=rub 摩擦
+520、trop=turn 转
+521、troph=nutrition 营养
+
+522、tru=true 相信，真实
+
+523、trud，trus=push 推
+524、turb=stir 搅动
+525、tut，tuit=protect 保护
+
+526、twine=twine 编织
+527、typ=type 模式，形状
+
+528、umbr=shadow 影子
+529、un，uni=one 单一，一个
+
+530、und=wave 波动
+531、up=up，over 向上
+532、urb=city 城市
+533、urin，ur=urine 尿
+534、us，util=use 用
+535、vac，vacu，van，void=empty 空
+
+536、vad，vas=go 走
+537、vag，vagr=wander 漫游 
+
+538、vail，val=strong 强壮
+
+539、val，valu=value 价值
+
+540、vapor=steam 蒸汽
+
+541、vari，vary=change 变化
+
+542、veil=cover 盖上
+
+543、ven，vent=come 来
+
+544、venge=punish 惩罚，报仇
+
+545、vent=wind 风
+
+546、ver=true 真实
+547、verb=word 词语
+548、vers，vert=turn 转
+549、vest=clothes 衣服
+550、vestig=footprint，rack 脚印，踪迹
+
+551、vi，via，vey，voy=way 道路
+
+552、vibr=swing 摇摆
+
+553、vict，vinc=conquer，overcome 征服，克服
+
+554、vid，vis=see 看
+555、vid，vis=separate 分开
+556、vil=base 卑劣
+
+557、vir=man 男人
+558、viv，vit，vig=life 生命
+559、voc，vok=call，voice 叫喊，声音
+560、vol，volunt=wish，will 意志，意愿
+561、volv，volu，volt=roll，turn 卷，转
+562、vor=eat 吃
+563、vot=vow 发誓
+564、vulg=people 人群
+565、vuls，vult=pluck，tear 收缩，撕开
+566、ware=watch 注视
+567、zeal=ardor 热心(Z 只是为了代表闪电，故电又有激情、热流等含义)
+
+568、zoo=animal 动物

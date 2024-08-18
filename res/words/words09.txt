@@ -1,0 +1,57 @@
+401、putr=rotten 腐烂
+402、quaint=know 知道
+403、quest，quir，quis，quer=seek，search 寻求，询问
+
+404、quiet，qui=still 静
+405、quit=free 自由
+406、radic=root 根
+407、rage=mad 疯狂
+408、range=rank 排列，顺序
+409、rap，rapt，rav=snatch 捕，夺
+410、ras，rad=scrape 刮擦
+411、rat=calculate 计算
+412、rect=straight，right 正，直 
+
+413、rend=give 给
+414、rept=creep 爬
+415、rhythm=rhythm 节奏
+416、rid，ris=laugh 笑
+417、robor=strength 力量(在如今的计算机领域经常听到”鲁棒”性，用来指软件或系统的健壮，就是它的音译而来)
+
+418、rod，ros=bite 咬
+419、rog=ask 要求，问
+420、rot=wheel 轮子，转
+421、rub=red 红(u-e，b-d，经过二次能假得来)
+
+422、rud=rude 原始，粗野
+
+423、rupt=break 断裂
+424、rust，rur=country 农村(rust 是锈的意思，指农村不干净，到处锈迹斑斑)
+
+425、sacr=holy 神圣
+426、sag=know 知道
+427、sal=leap 跳
+428、sal=salt 盐
+429、salv，save=save 救助
+430、san，sanit=healthy 健康的
+431、sanct=holy 神圣
+432、sanguin=blood 血
+433、sati，satis，satur=enough，full of food 足够，饱足
+434、scend，scens，scent=climb 爬，攀
+435、sci=know 知道
+436、scrib，script=write 写
+437、sect，seg=cut，divide 切，割
+438、secut，sequ=follow 跟随
+439、semin=seed 种子
+440、sen=old 老
+441、sens，sent=feel 感觉
+442、serr=saw 锯子
+443、sert=join，insert 加入，插入
+444、serv=serve，keep 服务，保持
+445、set=fix 安置好
+446、sever=earnest 诚恳
+447、sid=sit 坐
+448、sight=vision 眼光
+449、sign=mark 记号，信号
+450、simil，simul，sembl=alike，same 相类似，一样
+

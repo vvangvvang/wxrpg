@@ -1,5 +1,7 @@
 #导入游戏库
 import pygame
+import cv2
+import numpy as np
 import time,random
 from Sprite import *
 #屏幕大小常量

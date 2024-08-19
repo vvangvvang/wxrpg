@@ -11,8 +11,7 @@ FPS = 10
 
 CREATE_ENEMY_EVENT = pygame.USEREVENT
 HERO_FIRE_EVENT = pygame.USEREVENT + 1
-ANIMATION_FRAME_EVENT = pygame.USEREVENT + 2   #
-
+ANIMATION_FRAME_EVENT = pygame.USEREVENT + 2   #第
 
 class Game(object):
     def __init__(self):

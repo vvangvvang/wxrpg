@@ -1,5 +1,6 @@
 #导入游戏库
 import pygame
+import Box2D
 import cv2
 import numpy as np
 import time,random
@@ -31,7 +32,7 @@ class Game(object):
         self.hero.rect.center = self.scene.rect.center  #主角位置在地图中心
         print(dir(self.hero))
         self.enemy_group = pygame.sprite.Group()
-        for i in range(100):
+        for i in range(5):
             enemy = Enemy(FPS,self.enemy_image2)
             enemy.rect.x = random.randint(0,self.scene.rect.width-enemy.rect.width)
             enemy.rect.y = random.randint(0,self.scene.rect.height-enemy.rect.height)

@@ -1,1 +1,1 @@
-学习使用pygame库开发游戏，test1
+学习使用pygame库开发游戏，test2
